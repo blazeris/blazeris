@@ -1,5 +1,5 @@
-Computer science student @ CSULB
-Hobbyist 3d printer and designer
+#Computer science student @ CSULB
+#Hobbyist 3d printer and designer
 
 
 <!--
