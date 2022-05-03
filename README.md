@@ -1,4 +1,4 @@
-Computer science student @ CSULB
+Computer science undergrad @ CSULB
 
 Hobbyist 3d printer and designer
 
