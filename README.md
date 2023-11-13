@@ -3,6 +3,7 @@ Graduated from California State University, Long Beach
 Bachelor's Degree of Science in Computer Science  
 
 Hobbyist in 3d printing, electrical, and mechanical engineering  
+Personal Website: https://www.nathanlai.tech/  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-lai-engineering&layout=compact)
 
